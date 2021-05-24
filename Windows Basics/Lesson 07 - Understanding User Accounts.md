@@ -1,6 +1,4 @@
-#### Lesson 7: Understanding User Accounts
-
-/en/windowsbasics/adjusting-your-settings/content/
+Lesson 07: Understanding User Accounts
 
 ### Understanding user accounts
 
@@ -59,5 +57,3 @@ Click the **Start** button, click the **arrow** next to Shut Down, and select **
 ![screenshot of Windows 7](https://media.gcflearnfree.org/ctassets/topics/250/nav_switch_sharp.jpg)
 
 If you're finished using the computer, you can also choose to **log off**. This will allow other users to sign in to the computer with different accounts.
-
-/en/windowsbasics/keyboard-shortcuts-in-windows/content/
